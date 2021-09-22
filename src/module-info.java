@@ -1,0 +1,3 @@
+module JavaProgram {
+	exports JavaPractice;
+}
